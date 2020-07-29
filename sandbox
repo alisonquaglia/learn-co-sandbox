@@ -1,0 +1,4 @@
+var word = 'bird'
+
+word = 'dog'
+
